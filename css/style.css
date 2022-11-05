@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Reggae One";
+  src: url("../fonts/ReggaeOne-Regular.eot");
+  src: url("../fonts/ReggaeOne-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/ReggaeOne-Regular.woff2") format("woff2"),
+    url("../fonts/ReggaeOne-Regular.woff") format("woff"),
+    url("../fonts/ReggaeOne-Regular.ttf") format("truetype"),
+    url("../fonts/ReggaeOne-Regular.svg#../fonts/ReggaeOne-Regular")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.shrift {
+  font-family: "Reggae One";
+}
